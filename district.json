@@ -4909,67 +4909,67 @@
         {
             "id": "9101",
             "province_id": "91",
-            "name": "KABUPATEN FAKFAK"
+            "name": "Kabupaten Fakfak"
           },
           {
             "id": "9102",
             "province_id": "91",
-            "name": "KABUPATEN KAIMANA"
+            "name": "Kabupaten Kaimana"
           },
           {
             "id": "9103",
             "province_id": "91",
-            "name": "KABUPATEN TELUK WONDAMA"
+            "name": "Kabupaten Teluk Wondama"
           },
           {
             "id": "9104",
             "province_id": "91",
-            "name": "KABUPATEN TELUK BINTUNI"
+            "name": "Kabupaten Teluk Bintuni"
           },
           {
             "id": "9105",
             "province_id": "91",
-            "name": "KABUPATEN MANOKWARI"
+            "name": "Kabupaten Manokwari"
           },
           {
             "id": "9106",
             "province_id": "91",
-            "name": "KABUPATEN SORONG SELATAN"
+            "name": "Kabupaten Sorong Selatan"
           },
           {
             "id": "9107",
             "province_id": "91",
-            "name": "KABUPATEN SORONG"
+            "name": "Kabupaten Sorong"
           },
           {
             "id": "9108",
             "province_id": "91",
-            "name": "KABUPATEN RAJA AMPAT"
+            "name": "Kabupaten Raja Ampat"
           },
           {
             "id": "9109",
             "province_id": "91",
-            "name": "KABUPATEN TAMBRAUW"
+            "name": "Kabupaten Tambrauw"
           },
           {
             "id": "9110",
             "province_id": "91",
-            "name": "KABUPATEN MAYBRAT"
+            "name": "Kabupaten Maybrat"
           },
           {
-            "id": "9111",
-            "province_id": "91",
-            "name": "KABUPATEN MANOKWARI SELATAN"
+            "ID": "9111",
+            "PROVINCE_ID": "91",
+            "NAME": "Kabupaten Manokwari Selatan"
           },
           {
             "id": "9112",
             "province_id": "91",
-            "name": "KABUPATEN PEGUNUNGAN ARFAK"
+            "name": "Kabupaten Pegunungan Arfak"
           },
           {
             "id": "9171",
             "province_id": "91",
-            "name": "KOTA SORONG"
+            "name": "Kota Sorong"
           }
     ],
    "Brunei-Muara":[
